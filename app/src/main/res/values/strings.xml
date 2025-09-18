@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spelling Bee</string>
+    <string name="title_activity_pips">PipsActivity</string>
+</resources>
